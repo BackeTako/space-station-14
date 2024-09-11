@@ -54,6 +54,7 @@ namespace Content.IntegrationTests.Tests
             "Bagel",
             "CentComm",
             "Box",
+            "Barratry",
             "Core",
             "Marathon",
             "MeteorArena",
